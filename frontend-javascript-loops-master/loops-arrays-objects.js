@@ -100,7 +100,7 @@ const NOVIEmployees = [
 //   { firstName: 'Mark', lastName: 'Rensen', email: 'Mark.Rensen@novi.nl' },
 //  ];
 // ==========================================
-console.log('opdr2')
+console.log('opdr 2')
 
 for (let i = 0; i < NOVIEmployees.length; i++) {
     const emailaddress = NOVIEmployees[i].firstName + '.' + NOVIEmployees[i].lastName + '@novi.nl';
@@ -110,7 +110,7 @@ for (let i = 0; i < NOVIEmployees.length; i++) {
 console.log(NOVIEmployees);
 
 
-// Opdracht 2-BONUS
+// Opdracht 2 -BONUS
 // Lukt het je om ervoor te zorgen dat alle e-mailadressen in lowercase letters komen te staan? Dit heb je nog niet geleerd, maar google is your best friend...
 // ==========================================
 for (let i = 0; i < NOVIEmployees.length; i++) {

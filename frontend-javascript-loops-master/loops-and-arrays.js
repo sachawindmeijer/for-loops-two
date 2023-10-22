@@ -55,7 +55,7 @@ console.log(numbers);
 // Vervolgens moet de huidige waarde in de array overschreven worden met: "Het volume van [a] is [b]"
 // Zorg ervoor dat dit ook zou werken als de array wel 100 of 200 getallen zou bevatten!
 // ==========================================
-console.log('opdr3');
+console.log('opdr 3');
 const squares = [30, 2, 8, 24, 11];
 
 // Verwachtte uitkomsten:
